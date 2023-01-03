@@ -1,2 +1,5 @@
 # Guess-Game-python
-python mini project 
+python mini project to practice if loops
+
+
+
